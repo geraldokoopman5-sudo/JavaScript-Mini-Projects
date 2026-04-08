@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+   
+    
+}
+#numBox{
+    padding-top:15px;
+    padding-bottom: 15px;
+    font-size: x-large;
+    text-align: center;
+    margin-bottom: 18px;
+ 
+}
+label{
+    font-size: 20px; 
+      color: rgb(3, 19, 63);   
+}
+button{
+    margin-top:15px;
+    padding:10px;
+      color: rgb(3, 19, 63);
+      background-color: rgb(45, 129, 202);
+      border-radius: 4px;
+}
+#result{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+      color: rgb(3, 19, 63);
+}
+h1{
+    color: rgb(3, 19, 63);
+    font-size: 50   px;
+    margin-bottom: 30px;
+}
+form{
+   max-width: 360px;
+   margin:auto;
+   border-radius: 10px;
+   box-shadow: 5px 5px 10px;
+   background-color: aliceblue; 
+  
+}
