@@ -40,3 +40,6 @@ form{
    background-color: aliceblue; 
   
 }
+button:hover{
+    background-color: rgb(67, 80, 116);
+}
